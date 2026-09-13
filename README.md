@@ -15,7 +15,7 @@ This is a **+14.63 percentage point** improvement over the Part 2 baseline (71.7
 
 ## Files in This Repo
 
-- `f236014_DLP_A1.ipynb` — the full notebook with all seven parts and outputs
+- `f236014_DL_A1.ipynb` — the full notebook with all seven parts and outputs
 - `Final_Model_Summary.docx` — a one-page summary of the final result
 - `README.md` — this file
 
