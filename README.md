@@ -1,4 +1,4 @@
-# Deep Learning Assignment 1 — Fashion-MNIST
+# Deep Learning Assignment 1  Fashion-MNIST
 
 This project trains and tunes a neural network on the Fashion-MNIST dataset.
 It covers seven parts: backpropagation from scratch, activation study, loss
